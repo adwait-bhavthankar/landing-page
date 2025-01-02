@@ -12,6 +12,7 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundImage: { 'custom-bg': "url('/back.png')", },
     },
   },
   plugins: [],
